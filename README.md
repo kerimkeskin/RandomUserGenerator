@@ -1,3 +1,4 @@
 # RandomUserGenerator
 
-<html>asdasd</html>
+![GitHub Logo](/images/logo.png)
+
