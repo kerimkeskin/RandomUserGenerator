@@ -1,4 +1,4 @@
 # RandomUserGenerator
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/-1.gif)
 
