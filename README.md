@@ -6,7 +6,7 @@
 
 <p float="left">
   <img src="/images/--3.png"  />
-  <img src="/images/--4.gif"  /> 
+  <img src="/images/--4.png"  /> 
   
 </p>
 <p float="left">
